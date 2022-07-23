@@ -1,0 +1,78 @@
+{
+	"block1":{
+		"png": "./public/assets/block1.png",
+		"rotations": [
+			{
+				"degree": 0,
+				"bottom": [0, 1, 0],
+				"left": [0, 1, 0],
+				"top": [0, 0, 0],
+				"right":[0, 1,  0]
+			},
+			{
+				"degree": 90,
+				"bottom": [0, 1, 0],
+				"left": [0, 1, 0],
+				"top": [0, 1, 0],
+				"right":[0, 0,  0]
+			},
+			{
+				"degree": 180,
+				"bottom": [0, 0, 0],
+				"left": [0, 1, 0],
+				"top": [0, 1, 0],
+				"right":[0, 1,  0]
+			},
+			{
+				"degree": 270,
+				"bottom": [0, 1, 0],
+				"left": [0, 0, 0],
+				"top": [0, 1, 0],
+				"right":[0, 1,  0]
+			}
+		]
+	},
+	"block2":{
+		"png": "./public/assets/block2.png",
+		"rotations": [
+			{
+				"degree": 0,
+				"bottom": [0, 0, 0],
+				"left": [0, 1, 0],
+				"top": [0, 0, 0],
+				"right":[0, 1,  0]
+			},
+			{
+				"degree": 90,
+				"bottom": [0, 1, 0],
+				"left": [0, 0, 0],
+				"top": [0, 1, 0],
+				"right":[0, 0,  0]
+			}
+		]
+	},
+	"block3":{
+		"png": "./public/assets/block3.png",
+		"rotations": [
+			{
+				"degree": 0,
+				"bottom": [0, 0, 0],
+				"left": [0, 0, 0],
+				"top": [0, 0, 0],
+				"right":[0, 0,  0]
+			}
+		]
+	},
+	"block4":{
+		"png": "./public/assets/block4.png",
+		"rotations": [
+			{
+				"degree": 0,
+				"bottom": [0, 1, 0],
+				"left": [0, 1, 0],
+				"top": [0, 1, 0],
+				"right":[0, 1,  0]
+			}
+		]
+	}
+}
